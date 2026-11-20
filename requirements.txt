@@ -1,0 +1,6 @@
+# requirements.txt
+openai>=1.0.0          # 豆包 API
+schedule>=1.2.0        # 定时任务
+flask>=3.0.0           # Web服务
+requests>=2.31.0       # HTTP请求（企业微信API）
+pycryptodome>=3.19.0   # AES加解密（企业微信消息加密）

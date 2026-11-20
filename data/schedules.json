@@ -1,0 +1,468 @@
+[
+  {
+    "id": "816cc9a6",
+    "title": "创新项目结项与信息填报",
+    "time_start": "2026-04-14 20:00",
+    "time_end": null,
+    "detail": "需在学校网站填写该项目的结项材料与信息材料，记得向组员索要即将完成的展示PPT，填写完成后一起提交",
+    "tags": [
+      "学习",
+      "项目"
+    ],
+    "status": "pending",
+    "created_at": "2026-04-14 15:35",
+    "updated_at": "2026-04-14 15:35"
+  },
+  {
+    "id": "a2b08c06",
+    "title": "提醒指导老师通过创新项目填报",
+    "time_start": "2026-04-15 10:00",
+    "time_end": null,
+    "detail": "确认该创新项目的结项材料与信息材料均填报完成且无误后，联系指导老师审核通过",
+    "tags": [
+      "学习",
+      "项目",
+      "沟通"
+    ],
+    "status": "pending",
+    "created_at": "2026-04-14 15:35",
+    "updated_at": "2026-04-14 15:35"
+  },
+  {
+    "id": "baa5bc7f",
+    "title": "声音设计课",
+    "time_start": "2026-04-16 08:00",
+    "time_end": "2026-04-16 10:00",
+    "detail": null,
+    "tags": [
+      "学习"
+    ],
+    "status": "pending",
+    "created_at": "2026-04-14 15:40",
+    "updated_at": "2026-04-14 15:40"
+  },
+  {
+    "id": "c279c323",
+    "title": "提醒提交声音设计作业",
+    "time_start": "2026-04-19 22:00",
+    "time_end": null,
+    "detail": null,
+    "tags": [
+      "学习",
+      "作业",
+      "提醒"
+    ],
+    "status": "pending",
+    "created_at": "2026-04-14 15:40",
+    "updated_at": "2026-04-14 15:40"
+  },
+  {
+    "id": "358b5459",
+    "title": "角色建模作业-完成头发收尾与所有贴图制作",
+    "time_start": "2026-04-14 15:52",
+    "time_end": null,
+    "detail": "任务内容：完成头发收尾工作+所有贴图制作；提醒规则：每3小时提醒一次（每日23:00~次日8:00不打扰），直到告知完成为止",
+    "tags": [
+      "学习",
+      "作业"
+    ],
+    "status": "deleted",
+    "created_at": "2026-04-14 15:52",
+    "updated_at": "2026-04-14 15:55"
+  },
+  {
+    "id": "4e39d08c",
+    "type": "repeat",
+    "title": "角色建模作业（头发收尾+贴图制作）",
+    "date_start": "2026-04-14",
+    "date_end": "2026-04-19",
+    "interval_hours": 3.0,
+    "sleep_start": "23:00",
+    "sleep_end": "08:00",
+    "duration_minutes": 0,
+    "detail": "闲时完成，直到主动告知完成，当前阶段：头发收尾工作",
+    "tags": [
+      "建模作业"
+    ],
+    "status": "pending",
+    "created_at": "2026-04-14 16:21",
+    "updated_at": "2026-04-14 16:21"
+  },
+  {
+    "id": "4e39d08c_001",
+    "type": "repeat_instance",
+    "repeat_id": "4e39d08c",
+    "title": "角色建模作业（头发收尾+贴图制作）",
+    "time_start": "2026-04-14 08:00",
+    "time_end": null,
+    "detail": "闲时完成，直到主动告知完成，当前阶段：头发收尾工作",
+    "tags": [
+      "建模作业"
+    ],
+    "status": "pending"
+  },
+  {
+    "id": "4e39d08c_002",
+    "type": "repeat_instance",
+    "repeat_id": "4e39d08c",
+    "title": "角色建模作业（头发收尾+贴图制作）",
+    "time_start": "2026-04-14 11:00",
+    "time_end": null,
+    "detail": "闲时完成，直到主动告知完成，当前阶段：头发收尾工作",
+    "tags": [
+      "建模作业"
+    ],
+    "status": "pending"
+  },
+  {
+    "id": "4e39d08c_003",
+    "type": "repeat_instance",
+    "repeat_id": "4e39d08c",
+    "title": "角色建模作业（头发收尾+贴图制作）",
+    "time_start": "2026-04-14 14:00",
+    "time_end": null,
+    "detail": "闲时完成，直到主动告知完成，当前阶段：头发收尾工作",
+    "tags": [
+      "建模作业"
+    ],
+    "status": "pending"
+  },
+  {
+    "id": "4e39d08c_004",
+    "type": "repeat_instance",
+    "repeat_id": "4e39d08c",
+    "title": "角色建模作业（头发收尾+贴图制作）",
+    "time_start": "2026-04-14 17:00",
+    "time_end": null,
+    "detail": "闲时完成，直到主动告知完成，当前阶段：头发收尾工作",
+    "tags": [
+      "建模作业"
+    ],
+    "status": "pending"
+  },
+  {
+    "id": "4e39d08c_006",
+    "type": "repeat_instance",
+    "repeat_id": "4e39d08c",
+    "title": "角色建模作业（头发收尾+贴图制作）",
+    "time_start": "2026-04-15 08:00",
+    "time_end": null,
+    "detail": "闲时完成，直到主动告知完成，当前阶段：头发收尾工作",
+    "tags": [
+      "建模作业"
+    ],
+    "status": "pending"
+  },
+  {
+    "id": "4e39d08c_007",
+    "type": "repeat_instance",
+    "repeat_id": "4e39d08c",
+    "title": "角色建模作业（头发收尾+贴图制作）",
+    "time_start": "2026-04-15 11:00",
+    "time_end": null,
+    "detail": "闲时完成，直到主动告知完成，当前阶段：头发收尾工作",
+    "tags": [
+      "建模作业"
+    ],
+    "status": "pending"
+  },
+  {
+    "id": "4e39d08c_008",
+    "type": "repeat_instance",
+    "repeat_id": "4e39d08c",
+    "title": "角色建模作业（头发收尾+贴图制作）",
+    "time_start": "2026-04-15 14:00",
+    "time_end": null,
+    "detail": "闲时完成，直到主动告知完成，当前阶段：头发收尾工作",
+    "tags": [
+      "建模作业"
+    ],
+    "status": "pending"
+  },
+  {
+    "id": "4e39d08c_009",
+    "type": "repeat_instance",
+    "repeat_id": "4e39d08c",
+    "title": "角色建模作业（头发收尾+贴图制作）",
+    "time_start": "2026-04-15 17:00",
+    "time_end": null,
+    "detail": "闲时完成，直到主动告知完成，当前阶段：头发收尾工作",
+    "tags": [
+      "建模作业"
+    ],
+    "status": "pending"
+  },
+  {
+    "id": "4e39d08c_010",
+    "type": "repeat_instance",
+    "repeat_id": "4e39d08c",
+    "title": "角色建模作业（头发收尾+贴图制作）",
+    "time_start": "2026-04-15 20:00",
+    "time_end": null,
+    "detail": "闲时完成，直到主动告知完成，当前阶段：头发收尾工作",
+    "tags": [
+      "建模作业"
+    ],
+    "status": "pending"
+  },
+  {
+    "id": "4e39d08c_012",
+    "type": "repeat_instance",
+    "repeat_id": "4e39d08c",
+    "title": "角色建模作业（头发收尾+贴图制作）",
+    "time_start": "2026-04-16 11:00",
+    "time_end": null,
+    "detail": "闲时完成，直到主动告知完成，当前阶段：头发收尾工作",
+    "tags": [
+      "建模作业"
+    ],
+    "status": "pending"
+  },
+  {
+    "id": "4e39d08c_013",
+    "type": "repeat_instance",
+    "repeat_id": "4e39d08c",
+    "title": "角色建模作业（头发收尾+贴图制作）",
+    "time_start": "2026-04-16 14:00",
+    "time_end": null,
+    "detail": "闲时完成，直到主动告知完成，当前阶段：头发收尾工作",
+    "tags": [
+      "建模作业"
+    ],
+    "status": "pending"
+  },
+  {
+    "id": "4e39d08c_014",
+    "type": "repeat_instance",
+    "repeat_id": "4e39d08c",
+    "title": "角色建模作业（头发收尾+贴图制作）",
+    "time_start": "2026-04-16 17:00",
+    "time_end": null,
+    "detail": "闲时完成，直到主动告知完成，当前阶段：头发收尾工作",
+    "tags": [
+      "建模作业"
+    ],
+    "status": "pending"
+  },
+  {
+    "id": "4e39d08c_015",
+    "type": "repeat_instance",
+    "repeat_id": "4e39d08c",
+    "title": "角色建模作业（头发收尾+贴图制作）",
+    "time_start": "2026-04-16 20:00",
+    "time_end": null,
+    "detail": "闲时完成，直到主动告知完成，当前阶段：头发收尾工作",
+    "tags": [
+      "建模作业"
+    ],
+    "status": "pending"
+  },
+  {
+    "id": "4e39d08c_016",
+    "type": "repeat_instance",
+    "repeat_id": "4e39d08c",
+    "title": "角色建模作业（头发收尾+贴图制作）",
+    "time_start": "2026-04-17 08:00",
+    "time_end": null,
+    "detail": "闲时完成，直到主动告知完成，当前阶段：头发收尾工作",
+    "tags": [
+      "建模作业"
+    ],
+    "status": "pending"
+  },
+  {
+    "id": "4e39d08c_017",
+    "type": "repeat_instance",
+    "repeat_id": "4e39d08c",
+    "title": "角色建模作业（头发收尾+贴图制作）",
+    "time_start": "2026-04-17 11:00",
+    "time_end": null,
+    "detail": "闲时完成，直到主动告知完成，当前阶段：头发收尾工作",
+    "tags": [
+      "建模作业"
+    ],
+    "status": "pending"
+  },
+  {
+    "id": "4e39d08c_018",
+    "type": "repeat_instance",
+    "repeat_id": "4e39d08c",
+    "title": "角色建模作业（头发收尾+贴图制作）",
+    "time_start": "2026-04-17 14:00",
+    "time_end": null,
+    "detail": "闲时完成，直到主动告知完成，当前阶段：头发收尾工作",
+    "tags": [
+      "建模作业"
+    ],
+    "status": "pending"
+  },
+  {
+    "id": "4e39d08c_019",
+    "type": "repeat_instance",
+    "repeat_id": "4e39d08c",
+    "title": "角色建模作业（头发收尾+贴图制作）",
+    "time_start": "2026-04-17 17:00",
+    "time_end": null,
+    "detail": "闲时完成，直到主动告知完成，当前阶段：头发收尾工作",
+    "tags": [
+      "建模作业"
+    ],
+    "status": "pending"
+  },
+  {
+    "id": "4e39d08c_020",
+    "type": "repeat_instance",
+    "repeat_id": "4e39d08c",
+    "title": "角色建模作业（头发收尾+贴图制作）",
+    "time_start": "2026-04-17 20:00",
+    "time_end": null,
+    "detail": "闲时完成，直到主动告知完成，当前阶段：头发收尾工作",
+    "tags": [
+      "建模作业"
+    ],
+    "status": "pending"
+  },
+  {
+    "id": "4e39d08c_021",
+    "type": "repeat_instance",
+    "repeat_id": "4e39d08c",
+    "title": "角色建模作业（头发收尾+贴图制作）",
+    "time_start": "2026-04-18 08:00",
+    "time_end": null,
+    "detail": "闲时完成，直到主动告知完成，当前阶段：头发收尾工作",
+    "tags": [
+      "建模作业"
+    ],
+    "status": "pending"
+  },
+  {
+    "id": "4e39d08c_022",
+    "type": "repeat_instance",
+    "repeat_id": "4e39d08c",
+    "title": "角色建模作业（头发收尾+贴图制作）",
+    "time_start": "2026-04-18 11:00",
+    "time_end": null,
+    "detail": "闲时完成，直到主动告知完成，当前阶段：头发收尾工作",
+    "tags": [
+      "建模作业"
+    ],
+    "status": "pending"
+  },
+  {
+    "id": "4e39d08c_023",
+    "type": "repeat_instance",
+    "repeat_id": "4e39d08c",
+    "title": "角色建模作业（头发收尾+贴图制作）",
+    "time_start": "2026-04-18 14:00",
+    "time_end": null,
+    "detail": "闲时完成，直到主动告知完成，当前阶段：头发收尾工作",
+    "tags": [
+      "建模作业"
+    ],
+    "status": "pending"
+  },
+  {
+    "id": "4e39d08c_024",
+    "type": "repeat_instance",
+    "repeat_id": "4e39d08c",
+    "title": "角色建模作业（头发收尾+贴图制作）",
+    "time_start": "2026-04-18 17:00",
+    "time_end": null,
+    "detail": "闲时完成，直到主动告知完成，当前阶段：头发收尾工作",
+    "tags": [
+      "建模作业"
+    ],
+    "status": "pending"
+  },
+  {
+    "id": "4e39d08c_025",
+    "type": "repeat_instance",
+    "repeat_id": "4e39d08c",
+    "title": "角色建模作业（头发收尾+贴图制作）",
+    "time_start": "2026-04-18 20:00",
+    "time_end": null,
+    "detail": "闲时完成，直到主动告知完成，当前阶段：头发收尾工作",
+    "tags": [
+      "建模作业"
+    ],
+    "status": "pending"
+  },
+  {
+    "id": "4e39d08c_026",
+    "type": "repeat_instance",
+    "repeat_id": "4e39d08c",
+    "title": "角色建模作业（头发收尾+贴图制作）",
+    "time_start": "2026-04-19 08:00",
+    "time_end": null,
+    "detail": "闲时完成，直到主动告知完成，当前阶段：头发收尾工作",
+    "tags": [
+      "建模作业"
+    ],
+    "status": "pending"
+  },
+  {
+    "id": "4e39d08c_027",
+    "type": "repeat_instance",
+    "repeat_id": "4e39d08c",
+    "title": "角色建模作业（头发收尾+贴图制作）",
+    "time_start": "2026-04-19 11:00",
+    "time_end": null,
+    "detail": "闲时完成，直到主动告知完成，当前阶段：头发收尾工作",
+    "tags": [
+      "建模作业"
+    ],
+    "status": "pending"
+  },
+  {
+    "id": "4e39d08c_028",
+    "type": "repeat_instance",
+    "repeat_id": "4e39d08c",
+    "title": "角色建模作业（头发收尾+贴图制作）",
+    "time_start": "2026-04-19 14:00",
+    "time_end": null,
+    "detail": "闲时完成，直到主动告知完成，当前阶段：头发收尾工作",
+    "tags": [
+      "建模作业"
+    ],
+    "status": "pending"
+  },
+  {
+    "id": "4e39d08c_029",
+    "type": "repeat_instance",
+    "repeat_id": "4e39d08c",
+    "title": "角色建模作业（头发收尾+贴图制作）",
+    "time_start": "2026-04-19 17:00",
+    "time_end": null,
+    "detail": "闲时完成，直到主动告知完成，当前阶段：头发收尾工作",
+    "tags": [
+      "建模作业"
+    ],
+    "status": "pending"
+  },
+  {
+    "id": "4e39d08c_030",
+    "type": "repeat_instance",
+    "repeat_id": "4e39d08c",
+    "title": "角色建模作业（头发收尾+贴图制作）",
+    "time_start": "2026-04-19 20:00",
+    "time_end": null,
+    "detail": "闲时完成，直到主动告知完成，当前阶段：头发收尾工作",
+    "tags": [
+      "建模作业"
+    ],
+    "status": "pending"
+  },
+  {
+    "id": "7cf22a8f",
+    "title": "提醒下课",
+    "time_start": "2026-04-14 16:40",
+    "time_end": null,
+    "detail": null,
+    "tags": [
+      "生活/提醒"
+    ],
+    "status": "pending",
+    "created_at": "2026-04-14 16:30",
+    "updated_at": "2026-04-14 16:30"
+  }
+]
